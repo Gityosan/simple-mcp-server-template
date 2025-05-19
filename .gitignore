@@ -1,0 +1,25 @@
+output.txt
+node_modules
+dist
+.env.development
+.env
+*.db
+*.db-*
+.DS_Store
+
+# dependencies
+node_modules
+.pnp
+.pnp.js
+
+# testing
+coverage
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# windsurf
+.windsurfrules
